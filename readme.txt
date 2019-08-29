@@ -6,4 +6,5 @@ Git tracks changes.
 My stupid boss still prefer SNV.
 Creating a new branch is quick AND simple.
 the branch is new modified.
+Dev branch is a dev branch.
 
